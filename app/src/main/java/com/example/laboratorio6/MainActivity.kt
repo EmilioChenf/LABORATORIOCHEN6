@@ -239,6 +239,6 @@ fun HistoryChip(entry: HistoryEntry) {
 @Composable
 fun PreviewCounter() {
     LABORATORIO6Theme {
-        CounterScaffold(title = "Juan Carlos Durini")
+        CounterScaffold(title = "Emilio Josue Chen")
     }
 }
