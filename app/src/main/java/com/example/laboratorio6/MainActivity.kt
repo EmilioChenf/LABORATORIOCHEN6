@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             LABORATORIO6Theme {
-                CounterScaffold(title = "Juan Carlos Durini")
+                CounterScaffold(title = "Emilio Josue Chen Borrayo")
             }
         }
     }
